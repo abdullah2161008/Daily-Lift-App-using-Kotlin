@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DailyLift</string>
+    <string name="widget_name">Daily Lift</string>
+    <string name="widget_description">Stay inspired with a new motivational quote every day.</string>
+</resources>
